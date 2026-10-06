@@ -9,5 +9,3 @@ def hello_world():
 @app.route("/name")
 def name():
     return "<h1>Hi, I am Eden from Enterprise Web Dev!</h1>"
-
-
